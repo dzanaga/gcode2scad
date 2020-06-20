@@ -1,0 +1,6 @@
+build
+dist
+*.gcode
+cubo.scad
+gcode2scad_aggiornato1.py
+*.egg-info
